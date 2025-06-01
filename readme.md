@@ -119,7 +119,9 @@ Organize your code into functions for clarity:
 
 ### 🙏 Acknowledgements
 
-- This project is inspired by and designed as a practical exercise for the Kaggle 5-day Generative AI course, utilizing the Gemini API. Refer to the course notebooks for API usage details and explanations of the core concepts.
+* This project derives inspiration from, and serves as a practical exercise based upon, concepts presented in the **5-Day Gen AI Intensive Course with Google Learn Guide Unit 1 – “Prompt Engineering”**. Specifically, it applies principles demonstrated in the following Kaggle codelabs and supplementary materials:
+    * **Prompting fundamentals:** <https://www.kaggle.com/code/markishere/day-1-prompting>
+    * **Whitepaper on Prompt Engineering:** <https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view>
 
 - This "AI Red Team Ops Assistant" should be a challenging and engaging way to apply LLM prompting to offensive security scenarios. Always remember the ethical responsibilities and legal boundaries. Good luck!
 
